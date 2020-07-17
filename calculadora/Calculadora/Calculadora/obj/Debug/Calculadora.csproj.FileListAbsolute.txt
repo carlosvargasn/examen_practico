@@ -1,0 +1,13 @@
+C:\Users\edwin\Desktop\Proyectos de C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\edwin\Desktop\Proyectos de C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\edwin\Desktop\Proyectos de C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\edwin\Desktop\Proyectos de C#\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\edwin\Desktop\Proyectos de C#\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\edwin\Desktop\Proyectos de C#\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\edwin\Desktop\Proyectos de C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\Proyectos de C#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\Proyectos de C#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\edwin\Desktop\Proyectos de C#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\carlos\Desktop\ex-práctico\calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\carlos\Desktop\ex-práctico\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\carlos\Desktop\ex-práctico\calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
